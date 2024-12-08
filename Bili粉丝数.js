@@ -147,7 +147,7 @@ async function main() {
     // UP主信息数组，包含 vmid、UP主名称和自定义颜色
     const upMasters = [
         {
-            vmid: '1591442525', // UP主的vmid
+            vmid: '1591442525', // UP主的ID（个人空间页面https://space.bilibili.com/1591442525?，链接中的问号前面的这组数字
             name: '四喜茶茶', // UP主名称
             color: "#FE4B82" // 自定义主题色
         },
